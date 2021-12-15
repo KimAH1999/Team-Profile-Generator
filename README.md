@@ -29,7 +29,8 @@ npm install
 
 ## Usage
 
-input here
+[MyCaptureWebSnip](https://user-images.githubusercontent.com/87666809/146100753-29499996-5a42-463f-845d-eec84d329e33.PNG)
+
   
 ## Contributing
 
