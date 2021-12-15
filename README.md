@@ -29,9 +29,9 @@ npm install
 
 ## Usage
 
-[MyCaptureWebSnip](https://user-images.githubusercontent.com/87666809/146100753-29499996-5a42-463f-845d-eec84d329e33.PNG)
+![MyCaptureWebSnip](https://user-images.githubusercontent.com/87666809/146100949-21422cd8-7e30-4699-bfed-5b90509d4791.PNG)
 
-  
+
 ## Contributing
 
 Available to be reached through Linkdin and Slack, which is avilable in personal Portfolio
