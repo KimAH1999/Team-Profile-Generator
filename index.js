@@ -9,7 +9,7 @@ const filePath = path.join(fileDirectory, "/dist/index.html");
 const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
 const Manager = require("./lib/Manager");
-const renderHTML = require("./lib/generateHTML");
+const render = require("./src/generateHTML");
 
 // Employee array
 let employeesArr = [];
